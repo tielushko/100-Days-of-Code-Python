@@ -30,3 +30,5 @@ https://repl.it/@tielushko/Project-12-Number-Guessing-Game
 ### Day 14: Higher Lower Game
 https://repl.it/@tielushko/Project-14-Higher-Lower-Game
 ## Intermediate Python
+### Day 15: Coffee Machine Project
+https://repl.it/@tielushko/Project-15-Coffee-Machine#main.py
